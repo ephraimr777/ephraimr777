@@ -1,18 +1,69 @@
-# 💫 About Me:
-Hi, I'm Ephraim R 👋<br>🎓 Computer Science Engineering student at Bapuji Institute of Engineering & Technology (Class of 2028) | CGPA 7.5<br>💻 I build clean, well-documented full-stack applications — currently working with React.js, Node.js, and Express.js<br>📊 Data-driven developer — certified in SQL (HackerRank) and MongoDB, with hands-on experience designing normalized, query-friendly data models<br>🐍 Python-certified (Cisco Networking Academy) with a process-automation mindset — if it's repetitive, I script it<br>🚀 Featured Projects<br>💰 Expense Tracker — Full-stack expense management app with real-time data collection and a clean, normalized data model (React.js, Node.js, Express.js)<br>🎸 Musical Instruments E-Commerce — Built independently from concept to working prototype with cart logic and a shopping interface (React.js)<br>🛠️ Tech Stack<br>Languages: Python, SQL, JavaScript<br>Frontend: React.js<br>Backend: Node.js, Express.js<br>Databases: MongoDB, SQL<br>Tools: Git, GitHub, VS Code<br>Workflow: Agile<br>📜 Certifications<br>MongoDB Skill Badge (MongoDB University)<br>Cisco Networking Academy — Python Essentials<br>HackerRank — SQL & Problem Solving<br>freeCodeCamp — JavaScript Algorithms & Data Structures<br>Google Cloud Learning Badges<br>🎯 Currently<br>Exploring automation, database technologies, and safety-critical engineering (avionics — curious about DO-200 & DO-178 standards). Open to internship opportunities in Bengaluru! 📍<br>📫 Reach me: ephraimr2006@gmail.com
+<h1 align="center">
+Hey there 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+I'm Ephraim
+</h1>
 
+<h3 align="center">
+Aspiring Software Engineer | Turning caffeine into code
+<img src="https://ugokawaii.com/wp-content/uploads/2022/10/hot-coffee.gif" width="28">
+</h3>
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/ephraimr) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ephraimr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/EPHRAIM R) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ephraimr2006@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ephraimr777&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ephraimr777&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ephraimr777&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
 
 ---
-[![](https://komarev.com/ghpvc/?username=ephraimr777&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Skills
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,mongodb,mysql,react,nodejs,express,git,github,vscode" />
+<img src="https://skills.syvixor.com/api/icons?i=leetcode&perline=12&radius=40" alt="Skill Icons" />
+</p>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" /></a>
+
+</td>
+
+<td align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="mailto:ephraimr2006@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
+
+</div>
